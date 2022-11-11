@@ -24,3 +24,11 @@
     color: #7e7676;  
     opacity: 0;  
 }
+.swiper .swiper-button-prev:hover{
+    color: #7e7676;
+    opacity: 1;
+}
+.swiper .swiper-button-next:hover{
+    color: #7e7676;
+    opacity: 1;
+}
