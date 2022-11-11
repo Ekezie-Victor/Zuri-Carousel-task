@@ -1,2 +1,3 @@
-# Zuri-Carousel-task
- Zuri week 7 task
+ Zuri week 7 Carousel task
+
+https://ekezie-victor.github.io/Zuri-Carousel-task/
